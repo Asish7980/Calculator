@@ -2,12 +2,6 @@
 
 A responsive and user-friendly calculator built using HTML, CSS, and JavaScript. This project supports basic arithmetic operations, percentage calculations, keyboard input, and includes a toggle for dark mode.
 
-## 🔗 Live Demo
-
-[Click here to view the calculator](https://asish7980.github.io/Calculator/) *(if deployed via GitHub Pages)*
-
----
-
 ## ✨ Features
 
 - ✅ Basic arithmetic operations: `+`, `−`, `×`, `÷`
@@ -19,19 +13,14 @@ A responsive and user-friendly calculator built using HTML, CSS, and JavaScript.
 - ✅ Responsive design across all screen sizes
 - ✅ Dark/Light mode toggle for better UX
 
----
-
 ## 🖼️ Screenshots
 
 ### 💡 Light Mode
-![Light Mode](screenshots/light-mode.png)
+![Light Mode](screenshots/calculator1.png)
 
 ### 🌙 Dark Mode
-![Dark Mode](screenshots/dark-mode.png)
+![Dark Mode](screenshots/calculator2.png)
 
-> 💡 To display screenshots on GitHub, place them in a `/screenshots` folder inside the repo and use the correct relative path.
-
----
 
 ## 🛠️ Tech Stack
 
