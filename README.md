@@ -53,12 +53,11 @@ Calculator/
 │   └── dark-mode.png
 └── ...
 ```
-🙌 Acknowledgments
+### 🙌 Acknowledgments
 This project was built as part of personal practice and frontend development learning. Inspired by modern calculator layouts and accessible UI principles.
 
-📜 License
+### 📜 License
 This project is licensed under the MIT License.
 
-✍️ Author
+### ✍️ Author
 Asish Shaw
-🔗 GitHub Profile
